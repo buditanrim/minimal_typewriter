@@ -1,4 +1,4 @@
-const RANDOM_QUOTE_URL = 'https://api.quotable.io/random'
+const RANDOM_QUOTE_URL = 'https://api.quotable.io/random?minLength=100'
 const quoteBase = document.getElementById('quoteBase')
 const quoteInput = document.getElementById('quoteInput')
 
