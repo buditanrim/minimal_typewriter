@@ -1,0 +1,19 @@
+.jetbrains-mono-<uniquifier > {
+  font-family: 'JetBrains Mono', monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+  background: #212121;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.correct {
+  color: #ededed;
+}
+
+.incorrect {
+  color: #b53131;
+}
